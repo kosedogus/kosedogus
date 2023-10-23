@@ -10,7 +10,7 @@
 
 | Contest | High risk | Medium risk | Other | Security Report | Payout |
 | --- | --- | --- | --- | --- | --- |
-| Venus | -   | -   | 2 QA - Grade A | -   | $556 |
+| Venus | -   | -   | QA - Grade A | -   | $556 |
 | USSD | 5 highs | 1 medium | -   | -   | $60 |
 | Symmetrical | -   | 3 medium | -   | -   | $1025 |
 | Beedle | 6 highs | 2 medium   | -   | -   | $70 |
