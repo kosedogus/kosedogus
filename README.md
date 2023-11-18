@@ -1,8 +1,8 @@
 # Kose's wall of achievements
 
-| Overall issues found | High risk | Unique highs | Medium risk | Unique mediums | Audited contests |
-| --- | --- | --- | --- | --- | --- |
-| 35 issues found | 24 highs | -   | 11 mediums | -   | 9 contests |
+| Overall issues found | High risk | Medium risk | Audited contests |
+| --- | --- |--- | --- |
+| 35 issues found | 24 highs | 11 mediums | 9 contests |
 
 # Solo Participations
 
