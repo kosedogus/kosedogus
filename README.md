@@ -2,7 +2,7 @@
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 | --- | --- |--- | --- |
-| 43 issues found | 29 highs | 14 mediums | 12 contests |
+| 45 issues found | 29 highs | 16 mediums | 13 contests |
 
 # Solo Participations
 
@@ -18,7 +18,8 @@
 | Sparkn | 2 high | -   | -   | 
 | Canto | - | 1 medium   | Analysis(B)   | 
 | Nextgen | 2 high | -   | Analysis(B)   | 
-| Curves | 3 high | 2 medium  | QA(B)   | 
+| Curves | 3 high | 2 medium  | QA(B)   |
+| The Standard | - | 2 medium  | -   | 
 
 # Team Participations
 
