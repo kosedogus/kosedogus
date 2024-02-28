@@ -1,32 +1,33 @@
-# Kose's wall of achievements
+# Kose's Smart Contract Security Reviews
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 | --- | --- |--- | --- |
-| 45 issues found | 29 highs | 16 mediums | 13 contests |
+| 40 issues found | 24 highs | 16 mediums | 13 contests |
 
 # Solo Participations
 
 ### Audit Competitions
 
-| Contest | High risk | Medium risk | Other | 
-| --- | --- | --- | --- | 
-| Venus | -   | -   | QA(A) | 
-| USSD | 5 high | 1 medium | -   | 
-| Symmetrical | -   | 3 medium | -   | 
-| Beedle | 6 high | 2 medium   | -   | 
-| CodeHawks StableCoin | 4 high | 1 medium  | -   | 
-| Sparkn | 2 high | -   | -   | 
-| Canto | - | 1 medium   | Analysis(B)   | 
-| Nextgen | 2 high | -   | Analysis(B)   | 
-| Curves | 3 high | 2 medium  | QA(B)   |
-| The Standard | - | 2 medium  | -   | 
+| Contest | Findings | Other | Placement | Date | Report |
+| --- | --- | --- | --- | --- | --- |
+| Venus | -   | QA(A) | - | May 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Venus.md) |
+| USSD | 5 H & 1 M | - | - | June 2023 | Soon |
+| Symmetrical | 3 M | -  | 15 / 233 | June 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Symmetrical.md) | 
+| Beedle | 6 H  | -   | - | July 2023 | Soon |
+| CodeHawks StableCoin | 1 H & 2 M  | - | 13 / 100 | July 2023 | Soon |
+| Sparkn | 1 M   | -   | - | Aug 2023 | Soon |
+| Canto | 1 M   | Analysis(B)   | - | Nov 2023 |Soon | 
+| Nextgen | 2 H | Analysis(B)   | - | Nov 2023 |Soon |
+| The Standard | 2 M  | -   | - | Dec 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/The%20Standard.md) |
+| Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Curves.md) |
 
 # Team Participations
 
 ### Audit Competitions
 
-| Contest | High risk | Medium risk | Team Size | Other | 
-| --- | --- | --- | --- | --- |
-| Tangible | 5 high | 2 mediums | 3   | -   |
-| veRWA | 2 high | -   | 3   | -   |
-| Chainlink Staking  | - | 2 mediums  | 2  | Analysis(A), QA(B), Gas(B)  | 
+| Contest | Findings | Other | Team Size | Date | Report |
+| --- | --- | --- | --- | --- | --- | 
+| Tangible | 5 H & 2 M | -  | 3   | Aug 2023 | Soon |
+| veRWA | 2 H | -   | 3   |  Aug 2023 | Soon |
+| Chainlink Staking  | 2 M  | Analysis(A), QA(B), Gas(B)  | 2 | Sept 2023 | Private |
+
