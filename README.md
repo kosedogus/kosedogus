@@ -2,7 +2,7 @@
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 | --- | --- |--- | --- |
-| 40 issues found | 24 highs | 16 mediums | 13 contests |
+| 41 issues found | 24 highs | 17 mediums | 14 contests |
 
 # Solo Participations
 
@@ -20,6 +20,7 @@
 | Nextgen | 2 H | Analysis(B)   | - | Nov 2023 |Soon |
 | The Standard | 2 M  | -   | - | Dec 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/The%20Standard.md) |
 | Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Curves.md) |
+| Mento | 1 M | -  | 🥇 / 83 | March 2024 |Soon |
 
 # Team Participations
 
