@@ -2,7 +2,7 @@
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 | --- | --- |--- | --- |
-| 41 issues found | 24 highs | 17 mediums | 14 contests |
+| 43 issues found | 24 highs | 19 mediums | 15 contests |
 
 # Solo Participations
 
@@ -21,6 +21,7 @@
 | The Standard | 2 M  | -   | - | Dec 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/The%20Standard.md) |
 | Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Curves.md) |
 | Mento | 1 M | -  | 🥇 / 83 | March 2024 |Soon |
+| xKeeper | 2 M | -  | 🥇 / 203 | April 2024 |Soon |
 
 # Team Participations
 
