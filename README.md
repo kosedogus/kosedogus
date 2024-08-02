@@ -1,36 +1,44 @@
 # Kose's Smart Contract Security Reviews
 
+# Guardian Audits
+
+| Protocol | Type | Date | Report |
+| --- | --- | --- | --- |
+| Synthetix (PerpsV3 Market) | Perpetuals | July 2024 |Soon | 
+| Synthetix (BFP Market) | Perpetuals | June 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf) |
+| GMX | Perpetuals | May 2024| [Report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) |
+| Magna | Token Management | April 2024 | Private |
+
+# Audit Competitions
+
 | Overall issues found | High risk | Medium risk | Audited contests |
 | --- | --- |--- | --- |
 | 43 issues found | 24 highs | 19 mediums | 16 contests |
 
-# Solo Participations
-
-### Audit Competitions
+## Solo Participations
 
 | Contest | Findings | Other | Placement | Date | Report |
 | --- | --- | --- | --- | --- | --- |
-| Venus | -   | QA(A) | - | May 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Venus.md) |
-| USSD | 5 H & 1 M | - | - | June 2023 | Soon |
-| Symmetrical | 3 M | -  | 15 / 233 | June 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Symmetrical.md) | 
-| Beedle | 6 H  | -   | - | July 2023 | Soon |
-| CodeHawks StableCoin | 1 H & 2 M  | - | 13 / 100 | July 2023 | Soon |
-| Sparkn | 1 M   | -   | - | Aug 2023 | Soon |
-| Canto | 1 M   | Analysis(B)   | - | Nov 2023 |Soon | 
-| Nextgen | 2 H | Analysis(B)   | - | Nov 2023 |Soon |
-| The Standard | 2 M  | -   | - | Dec 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/The%20Standard.md) |
-| Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Curves.md) |
-| BFX | 1 L | -  | 🥉 / ? | February 2024 |Soon |
-| Mento | 1 M | -  | 🥇 / 83 | March 2024 |Soon |
 | xKeeper | 2 M | -  | 🥇 / 203 | April 2024 |Soon |
+| Mento | 1 M | -  | 🥇 / 83 | March 2024 |Soon |
+| BFX | 1 L | -  | 🥉 / ? | February 2024 |Soon |
+| Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Curves.md) |
+| The Standard | 2 M  | -   | - | Dec 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/The%20Standard.md) |
+| Nextgen | 2 H | Analysis(B)   | - | Nov 2023 |Soon |
+| Canto | 1 M   | Analysis(B)   | - | Nov 2023 |Soon | 
+| Sparkn | 1 M   | -   | - | Aug 2023 | Soon |
+| CodeHawks StableCoin | 1 H & 2 M  | - | 13 / 100 | July 2023 | Soon |
+| Beedle | 6 H  | -   | - | July 2023 | Soon |
+| Symmetrical | 3 M | -  | 15 / 233 | June 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Symmetrical.md) | 
+| USSD | 5 H & 1 M | - | - | June 2023 | Soon |
+| Venus | -   | QA(A) | - | May 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Venus.md) |
 
-# Team Participations
 
-### Audit Competitions
+## Team Participations
 
 | Contest | Findings | Other | Team Size | Date | Report |
 | --- | --- | --- | --- | --- | --- | 
-| Tangible | 5 H & 2 M | -  | 3   | Aug 2023 | Soon |
-| veRWA | 2 H | -   | 3   |  Aug 2023 | Soon |
 | Chainlink Staking  | 2 M  | Analysis(A), QA(B), Gas(B)  | 2 | Sept 2023 | Private |
+| veRWA | 2 H | -   | 3   |  Aug 2023 | Soon |
+| Tangible | 5 H & 2 M | -  | 3   | Aug 2023 | Soon |
 
