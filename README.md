@@ -5,7 +5,7 @@
 | Protocol | Type | Date | Report |
 | --- | --- | --- | --- |
 | Synthetix (PerpsV3 Market) | Perpetuals | July 2024 |Soon | 
-| Synthetix (BFP Market) | Perpetuals | June 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-04-18_Synthetix_BFP_Market.pdf) |
+| Synthetix (BFP Market) | Perpetuals | June 2024 | Soon |
 | GMX | Perpetuals | May 2024| [Report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) |
 | Magna | Token Management | April 2024 | Private |
 
