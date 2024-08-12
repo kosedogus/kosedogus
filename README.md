@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | Synthetix (PerpsV3 Market) | Perpetuals | July 2024 |Soon | 
 | Synthetix (BFP Market) | Perpetuals | June 2024 | Soon |
-| GMX | Perpetuals | May 2024| [Report](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) |
+| GMX | Perpetuals | May 2024| [Report #1](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) [Report #2](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_2.pdf)|
 | Magna | Token Management | April 2024 | Private |
 
 # Audit Competitions
