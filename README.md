@@ -4,6 +4,7 @@
 
 | Protocol | Type | Date | Report |
 | --- | --- | --- | --- |
+| Foil | vAMM | September 2024 |Soon | 
 | Synthetix (Migration V2 => V3) | Perpetuals | August 2024 |Soon | 
 | Synthetix (PerpsV3 Market) | Perpetuals | July 2024 |Soon | 
 | Synthetix (BFP Market) | Perpetuals | June 2024 | Soon |
