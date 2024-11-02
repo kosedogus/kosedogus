@@ -4,7 +4,7 @@
 
 | Protocol | Type | Date | Report |
 | --- | --- | --- | --- |
-| Foil | vAMM | September 2024 |Soon | 
+| Foil | vAMM | September 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2024-10-28_Foil.pdf) | 
 | Synthetix (Migration V2 => V3) | Perpetuals | August 2024 |Soon | 
 | Synthetix (PerpsV3 Market) | Perpetuals | July 2024 |Soon | 
 | Synthetix (BFP Market) | Perpetuals | June 2024 | Soon |
