@@ -4,6 +4,7 @@
 
 | Protocol | Type | Date | Report |
 | --- | --- | --- | --- |
+| Azuki (Claimer) | Vesting | December 2024 |Soon | 
 | ExitMarket | Vesting | November 2024 |Soon | 
 | Smardex USDN | Stablecoin + Perpetuals | October 2024 |Soon | 
 | Foil | vAMM | September 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2024-10-28_Foil.pdf) | 
