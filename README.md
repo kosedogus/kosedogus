@@ -24,8 +24,8 @@
 
 | Contest | Findings | Other | Placement | Date | Report |
 | --- | --- | --- | --- | --- | --- |
-| xKeeper | 2 M | -  | 🥇 / 203 | April 2024 |Soon |
-| Mento | 1 M | -  | 🥇 / 83 | March 2024 |Soon |
+| xKeeper | 2 M | -  | 🥇 / 203 | April 2024 |[Audit Report](https://audits.sherlock.xyz/contests/248/report) |
+| Mento | 1 M | -  | 🥇 / 83 | March 2024 | [Audit Report](https://audits.sherlock.xyz/contests/187/report) |
 | BFX | 1 L | -  | 🥉 / ? | February 2024 |Soon |
 | Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Curves.md) |
 | The Standard | 2 M  | -   | - | Dec 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/The%20Standard.md) |
