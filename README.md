@@ -5,12 +5,12 @@
 | Protocol | Type | Date | Report |
 | --- | --- | --- | --- |
 | Azuki (Claimer) | Vesting | December 2024 |Soon | 
-| ExitMarket | Vesting | November 2024 |Soon | 
+| Umami | Vesting | November 2024 |[Report](https://github.com/GuardianAudits/Audits/blob/main/Umami/2025-01-26_Umami_GMX_PositionManager.pdf) | 
 | Smardex USDN | Stablecoin + Perpetuals | October 2024 |[Report](https://github.com/GuardianAudits/Audits/blob/main/Smardex/12-18-2024_Smardex_USDN.pdf) | 
 | Foil | vAMM | September 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2024-10-28_Foil.pdf) | 
-| Synthetix (Migration V2 => V3) | Perpetuals | August 2024 | Soon | 
-| Synthetix (PerpsV3 Market) | Perpetuals | July 2024 |Soon | 
-| Synthetix (BFP Market) | Perpetuals | June 2024 | Soon |
+| Synthetix (Migration V2 => V3) | Perpetuals | August 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2025-10-28_Synthetix_Migration.pdf) | 
+| Synthetix (PerpsV3 Market) | Perpetuals | July 2024 |[Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2024-10-28_Synthetix_Perps_V3.pdf) | 
+| Synthetix (BFP Market) | Perpetuals | June 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Synthetix/2025-03-03_Synthetix_BFP_2.pdf) |
 | GMX | Perpetuals | May 2024| [Report #1](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_1.pdf) [Report #2](https://github.com/GuardianAudits/Audits/blob/main/GMX/2024-06-14_GMX_Updates_2.pdf)|
 | Magna | Token Management | April 2024 | Private |
 
