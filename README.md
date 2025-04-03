@@ -4,7 +4,7 @@
 
 | Protocol | Type | Date | Report |
 | --- | --- | --- | --- |
-| Azuki (Claimer) | Vesting | December 2024 |Soon | 
+| Azuki (AnimeCoin) | Vesting + MultiChain | December 2024 |[Report #1](https://github.com/GuardianAudits/Audits/blob/main/Animecoin/2025-01-18_Anime_Claimer_1.pdf) [Report #2](https://github.com/GuardianAudits/Audits/blob/main/Animecoin/2025-01-18_Anime_Claimer_2.pdf) | 
 | Umami | Vesting | November 2024 |[Report](https://github.com/GuardianAudits/Audits/blob/main/Umami/2025-01-26_Umami_GMX_PositionManager.pdf) | 
 | Smardex USDN | Stablecoin + Perpetuals | October 2024 |[Report](https://github.com/GuardianAudits/Audits/blob/main/Smardex/12-18-2024_Smardex_USDN.pdf) | 
 | Foil | vAMM | September 2024 | [Report](https://github.com/GuardianAudits/Audits/blob/main/Foil/2024-10-28_Foil.pdf) | 
