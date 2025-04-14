@@ -1,7 +1,7 @@
 # Kose's Smart Contract Security Reviews
 Security Researcher specialized on EVM and SVM.
 
-Previously Audıtor at [Guardian Audits](https://guardianaudits.com/)
+Previously Auditor at [Guardian Audits](https://guardianaudits.com/)
 
 Audited 30+ protocols and reported 500+ issues with severities:
 
