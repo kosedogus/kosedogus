@@ -1,7 +1,7 @@
 # Kose's Smart Contract Security Reviews
 Independent Security Researcher specialized on EVM and SVM.
 
-Lead Senior Security Researcher at [Sherlock](https://audits.sherlock.xyz/contests)
+Senior Security Researcher at [Sherlock](https://audits.sherlock.xyz/contests)
 
 Previously Auditor at [Guardian Audits](https://guardianaudits.com/)
 
