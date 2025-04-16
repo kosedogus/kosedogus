@@ -29,6 +29,7 @@ Reach me at [t.me/Kose00](t.me/Kose00)
 
 | Contest                                 | Findings | Placement | Report                                                                                          | 
 | --------------------------------------- | -------- | --------- | ----------------------------------------------------------------------------------------------- | 
+| Stealth (Solana)                        | 2025     | 🥇        | Private                                                                                         |  
 | xKeeper                                 | 2024     | 🥇        | [Audit Report](https://audits.sherlock.xyz/contests/248/report)                                 |  
 | Mento                                   | 2024     | 🥇        | [Audit Report](https://audits.sherlock.xyz/contests/187/report)                                 |
 | BFX                                     | 2024     | 🥉        | -                                                                                               |   
