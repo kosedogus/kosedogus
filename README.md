@@ -35,7 +35,8 @@ Reach me at [t.me/Kose00](t.me/Kose00)
 | Stealth (Solana)                        | 2025     | 🥇        | Private                                                                                         |  
 | xKeeper                                 | 2024     | 🥇        | [Audit Report](https://audits.sherlock.xyz/contests/248/report)                                 |  
 | Mento                                   | 2024     | 🥇        | [Audit Report](https://audits.sherlock.xyz/contests/187/report)                                 |
-| BFX                                     | 2024     | 🥉        | -                                                                                               |   
+| BFX                                     | 2024     | 🥉        | -                                                                                               |
+| Native                                  | 2025     | 5th       | Private                                                                                               |   
 | Daao                                    | 2025     | 9th       |                                                                                                 |   
 | CodeHawks StableCoin                    | 2023     | 13th      | -                                                                                               | 
 | Symmetrical                             | 2023     | 15th      | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Symmetrical.md)    | 
