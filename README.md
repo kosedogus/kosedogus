@@ -1,5 +1,7 @@
 # Kose's Smart Contract Security Reviews
-Independent Security Researcher specialized on EVM and SVM.
+Independent Security Researcher specialized on EVM, SVM, Move and Canton.
+
+Senior Blockchain Security Researcher at [OpenZeppelin](https://www.openzeppelin.com/)
 
 Senior Security Researcher at [Sherlock](https://audits.sherlock.xyz/contests)
 
