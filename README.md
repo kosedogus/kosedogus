@@ -7,11 +7,10 @@ Senior Security Researcher at [Sherlock](https://audits.sherlock.xyz/contests)
 
 Previously Auditor at [Guardian Audits](https://guardianaudits.com/)
 
-Audited 30+ protocols and reported 500+ issues with severities:
+Audited 40+ protocols and reported 600+ issues with severities:
 
-- 110+ Critical / High
-- 170+ Medium
-- 250+ Low
+- 130+ Critical / High
+- 200+ Medium
 
 Reach me at [t.me/Kose00](t.me/Kose00)
 
